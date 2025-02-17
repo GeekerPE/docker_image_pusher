@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 homeassistant/home-assistant:latest
 ghcr.io/lagrangedev/lagrange.onebot:edge
+ghcr.io/sealdice/sealdice:edge
