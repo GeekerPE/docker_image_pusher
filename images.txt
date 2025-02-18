@@ -4,7 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-homeassistant/home-assistant:latest
-ghcr.io/lagrangedev/lagrange.onebot:edge
-ghcr.io/sealdice/sealdice:edge
-initialencounter/llonebot:latest
+ghcr.io/lagrangedev/lagrange.onebot:sha-5543701
