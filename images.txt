@@ -7,3 +7,4 @@
 homeassistant/home-assistant:latest
 ghcr.io/lagrangedev/lagrange.onebot:edge
 ghcr.io/sealdice/sealdice:edge
+initialencounter/llonebot:latest
